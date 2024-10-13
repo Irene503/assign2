@@ -1,0 +1,4 @@
+#ignore unwanted files
+.unwanted_DS_Store
+*.log        #ignore all files
+config.json  
